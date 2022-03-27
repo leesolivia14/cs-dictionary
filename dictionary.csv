@@ -1,0 +1,31 @@
+word,definition,example
+int,a datatype of whole numbers,67
+float,non-integer number datatype,3.14
+variable,location of storage with a name that can be assigned a datatype,"var = ""example string"""
+string,one or many characters that as a whole get interpreted in the program as a data type,"""hello world"""
+boolean,true or false value datatype,TRUE
+char, a single character that is interpreted as a data type in some programming languages,"""c"" or 3"
+datatype, piece of data assigned to an attribute that is interpreted by the computer for operational use,
+function,organized region of code that can be called to re-use the same program with different values,def example_func()
+parameter,variable(s) passed through the definition of a method/function ,def example_func(parameter)
+argument,variable(s) passed through the calling of a method/function,example_func(arg)
+file extension,,.exe or .dmg
+OS,"""operating system"", the system-wide application that a user interacts with to use a computer's hardware",windows or macOS
+pdf,widely accessible document viewing file format,
+exe,file extension for a windows file that executes a program when opened,
+dmg,,
+pkg,"""package"",  ",
+cache,,
+firewall,a security measure that creates a barrier between a trusted network and an outside network,
+cloud computing,the offering of applications and software over the internet,
+vpn,"""virtual private network"", an application that gives a user an anonymous and more protected access to the internet",
+data mining,finding patterns or outliers in large quantities of data through analysis,
+UI,"""user interface"", the processes of how a user interacts with an application often intuitively",
+internet,global network that allows computers to communicate all across the world,
+backend,the part of a program or website that a user would not see the necessary programming processes,the html needed for a user to view a site
+frontend,refers to what a user interacts with in a program or website often and can be used to describe UI,the web page a user interacts with
+application,computer program that is initialized with a specific intention ,
+api,"""application programming interface"", application that creates software or allows applications to communicate on a device",
+bugs,an error occuring in a computer program,syntax error in programming not allowing a script to run
+software,virtual applications accessible on a computer,search engines or an operating system
+ram,"""random access memory"", fast memory type where active system programs are often stored",
